@@ -2,7 +2,7 @@
   "name": "a-man",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sfrancop.github.io/a-man",
+  "homepage": "https://sfrancop.github.io/A-MAN",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
