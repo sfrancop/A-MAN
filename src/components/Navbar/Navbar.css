@@ -21,4 +21,11 @@
 .n-icons-icon{
     width: 28px;
     height: 28px;
+    transition: 0.3s filter;
 } 
+
+.n-icons-icon:hover{
+    font-weight: bold;
+    cursor: pointer;
+    filter: invert(84%) sepia(92%) saturate(38%) hue-rotate(213deg) brightness(114%) contrast(100%);
+}

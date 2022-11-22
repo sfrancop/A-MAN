@@ -6,6 +6,8 @@ import SquareCheck from "../../pictures/check-square.svg"
 export default class ListItem extends Component {
 
 
+  selected = false;
+
   setSquare(){
     if(this.props.check){
       this.selectedSquare = SquareCheck;
