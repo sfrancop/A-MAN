@@ -1,0 +1,71 @@
+.f-margins{
+    margin-left: 23px;
+    margin-right: 23px;
+
+}
+
+.f-header{
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    overflow: hidden;
+    background-color: white;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.f-navbar{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    display:flex;
+    flex-direction:row;
+    margin:0;
+    padding:0;
+}
+
+.f-title{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 32px;
+    font-weight: bold;
+}
+
+.f-gastronomia-contenedor{
+    margin-top: 32px;
+}
+
+.f-espacios-contenedor{
+    margin-top: 48px;
+}
+
+.f-acondicionamiento-contenedor{
+    margin-top: 48px;
+}
+
+.f-gastronomia-items, .f-espacios-items, .f-acondicionamiento-items{
+    justify-content: space-between;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 37px;
+}
+
+.f-gastronomia-items-item, .f-espacios-items-item, .f-acondicionamiento-items-item{
+    margin-top: 20px;
+}
+
+.f-gastronomia-titulo, .f-espacios-titulo, .f-acondicionamiento-titulo{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.f-button{
+    padding: 0.2% 18%;
+    height: 11.1%;
+    width: 30%;
+    background-color: #72C8F1;
+    border-radius: 20px;
+    margin-left: 92px;
+    margin-top: 18px;
+    margin-bottom: 30px;
+}

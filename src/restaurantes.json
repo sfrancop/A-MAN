@@ -1,0 +1,181 @@
+[
+
+    {
+        "id": 1,
+        "nombre": "El Corral",
+        "imagen": "https://vivaenvigado.com/sites/default/files/2020-02/GOPR7265.jpg",
+        "direccion": "Autopista norte #193-34",
+        "telefono": "6015874195",
+        "gastronomia": ["Comida rápida"],
+        "espacio": "Zona campestre",
+        "acomodamiento": ["Parqueaderos azules", "Tamaños de mesa diferentes", "Vías de tránsito peatonal de fácil acceso", "Rampas adecuadas"]
+
+    },
+
+    {
+        "id": 2,
+        "nombre": "McDonald's",
+        "imagen": "https://www.peterboroughtoday.co.uk/webimg/T0FLMTIzNTcwOTc3.jpg",
+        "direccion": "Cra 12 #93-86",
+        "telefono": "6014785147",
+        "gastronomia": ["Comida rápida"],
+        "espacio": "Vía pública",
+        "acomodamiento": ["Parqueaderos azules", "Tamaños de mesa diferentes", "Vías de tránsito peatonal de fácil acceso", "Rampas adecuadas"]
+
+    },
+
+    {
+        "id": 3,
+        "nombre": "Qbano",
+        "imagen": "https://multiplaza-samantha.s3.amazonaws.com/uploads/post/v4_mobile/7120/v800_800_QBANO__1_.jpg",
+        "direccion": "Autopista norte #232-35",
+        "telefono": "6013652214",
+        "gastronomia": ["Comida rápida"],
+        "espacio": "Centro comercial",
+        "acomodamiento": ["Parqueaderos azules", "Vías de tránsito peatonal de fácil acceso", "Rampas adecuadas", "Ascensores"]
+
+    },
+
+    {
+        "id": 4,
+        "nombre": "Wok",
+        "imagen": "https://th.bing.com/th/id/R.b484a7a3669b28cc0e85fafbc0f8d753?rik=M%2fYmgAr3xiQhEA&riu=http%3a%2f%2f1.bp.blogspot.com%2f-o9Nqw14Ltjc%2fUdFsMOwiZXI%2fAAAAAAAAD08%2fzJQppt8ptTA%2fs800%2ffoto_4769.JPG&ehk=oxPFTlCEqwXFlMTUbEZAlq%2f9lLQadR4PZ9%2f0ym%2bLbsI%3d&risl=&pid=ImgRaw&r=0",
+        "direccion": "Cl. 140 #11-85",
+        "telefono": "6013099402",
+        "gastronomia": ["Internacional"],
+        "espacio": "Vía pública",
+        "acomodamiento": ["Parqueaderos azules", "Vías de tránsito peatonal de fácil acceso", "Ascensores", "Tamaños de mesa diferentes"]
+
+    },
+
+    {
+        "id": 5,
+        "nombre": "Seratta Gourmet market",
+        "imagen": "https://bde04f90fcbcc7b99af9-a4cf3e88ec567f5b6c6819f1d482f77f.ssl.cf1.rackcdn.com/3_105496_s_0.jpg?v=408",
+        "direccion": "Cra 45 #114-44",
+        "telefono": "6017443466",
+        "gastronomia": ["Internacional"],
+        "espacio": "Centro comercial",
+        "acomodamiento": ["Parqueaderos azules", "Vías de tránsito peatonal de fácil acceso", "Ascensores", "Tamaños de mesa diferentes"]
+
+    },
+
+    {
+        "id": 6,
+        "nombre": "The Chesse Wheel",
+        "imagen": "https://img.lalr.co/cms/2021/03/18162427/1-2.jpg?size=xl&ratio=r40_21&f=jpg",
+        "direccion": "Cra 11D #118A-95",
+        "telefono": "3164620545",
+        "gastronomia": ["Internacional"],
+        "espacio": "Vía pública",
+        "acomodamiento": ["Valet parking", "Vías de tránsito peatonal de fácil acceso"]
+
+    },
+
+    {
+        "id": 7,
+        "nombre": "La Taqueria",
+        "imagen": "https://bde04f90fcbcc7b99af9-a4cf3e88ec567f5b6c6819f1d482f77f.ssl.cf1.rackcdn.com/3_689_r_0.jpg?v=459",
+        "direccion": "Av. Pepe Sierra #15-44 local 2",
+        "telefono": "6015556475",
+        "gastronomia": ["Internacional"],
+        "espacio": "Vía pública",
+        "acomodamiento": ["Valet parking", "Vías de tránsito peatonal de fácil acceso", "Tamaños de mesa diferentes"]
+
+    },
+
+    {
+        "id": 8,
+        "nombre": "La Mar",
+        "imagen": "https://cdn.atrapalo.com/common/photo/res/49184/0/ticr_890_370.jpg",
+        "direccion": "Cl 119B #6-1",
+        "telefono": "6016292200",
+        "gastronomia": ["Internacional"],
+        "espacio": "Vía pública",
+        "acomodamiento": ["Valet parking", "Rampas adecuadas"]
+
+    },
+
+    {
+        "id": 9,
+        "nombre": "Mi Gran Parrila Boyacense",
+        "imagen": "https://bde04f90fcbcc7b99af9-a4cf3e88ec567f5b6c6819f1d482f77f.ssl.cf1.rackcdn.com/3_101242_r_0.jpg?v=342",
+        "direccion": "Cl 71A #30-53",
+        "telefono": "60630576",
+        "gastronomia": ["Tradicional"],
+        "espacio": "Vía pública",
+        "acomodamiento": ["Ascensores", "Parqueaderos azules", "Vías de tránsito peatonal de fácil acceso"]
+
+    },
+
+    {
+        "id": 10,
+        "nombre": "Sopas de Mamá y Postres de la Abuela",
+        "imagen": "https://th.bing.com/th/id/R.50cb63d8ea0e8072faab405abbdeff52?rik=%2bCW%2b782Xb%2fR%2f%2bQ&pid=ImgRaw&r=0",
+        "direccion": "Cl. 140 #19-16",
+        "telefono": "6017021400",
+        "gastronomia": ["Tradicional"],
+        "espacio": "Vía pública",
+        "acomodamiento": ["Parqueaderos azules", "Vías de tránsito peatonal de fácil acceso"]
+
+    },
+
+    {
+        "id": 11,
+        "nombre": "La Bonga del Sinú",
+        "imagen": "https://chipviajero.com/wp-content/uploads/2017/07/La-Bonga-Del-Sin%C3%BA-Restaurante-Chip-Viajero-3.jpg",
+        "direccion": "Av Pepe sierra #16-89",
+        "telefono": "6016584475",
+        "gastronomia": ["Tradicional"],
+        "espacio": "Vía pública",
+        "acomodamiento": ["Rampas adecuadas", "Vías de tránsito peatonal de fácil acceso"]
+
+    },
+
+    {
+        "id": 12,
+        "nombre": "Crepes & Wafles",
+        "imagen": "https://4.bp.blogspot.com/-NxRe4GlfPVU/UF5LK1CCICI/AAAAAAAAAAQ/dWFUi2YAeqw/s1600/IMG02064-20120909-1426.jpg",
+        "direccion": "Cra 58 #127-59",
+        "telefono": "6012358745",
+        "gastronomia": ["Postres"],
+        "espacio": "Centro comercial",
+        "acomodamiento": ["Rampas adecuadas", "Vías de tránsito peatonal de fácil acceso", "Ascensores", "Parqueaderos azules"]
+
+    },
+
+    {
+        "id": 13,
+        "nombre": "Popsy",
+        "imagen": "https://res.cloudinary.com/civico/image/upload/c_fill,f_auto,fl_lossy,h_628,q_auto:low,w_1200/v1401308731/entity/image/file/049/000/5386463b28f813656b000049.jpg",
+        "direccion": "Cl. 116 Bis #61",
+        "telefono": "6014785241",
+        "gastronomia": ["Postres"],
+        "espacio": "Centro comercial",
+        "acomodamiento": ["Rampas adecuadas", "Parqueaderos azules", "Tamaños de mesa diferentes"]
+
+    },
+
+    {
+        "id": 14,
+        "nombre": "Cookie Jar",
+        "imagen": "https://3.bp.blogspot.com/_4jOWz01thpM/TQ2ylFbfmEI/AAAAAAAAAXs/zGAcl3BzcWY/s1600/cookiejar03.jpg",
+        "direccion": "Av. Boyaca #145-2",
+        "telefono": "6018547213",
+        "gastronomia": ["Postres"],
+        "espacio": "Centro comercial",
+        "acomodamiento": ["Rampas adecuadas", "Parqueaderos azules", "Tamaños de mesa diferentes", "Ascensores", "Vías de tránsito peatonal de fácil acceso"]
+    },
+
+    {
+        "id": 15,
+        "nombre": "T4",
+        "imagen": "https://cde.3.elcomercio.pe/ima/0/0/9/9/1/991646.jpg",
+        "direccion": "Cl. 185 #45-03",
+        "telefono": "6016248571",
+        "gastronomia": ["Bebidas"],
+        "espacio": "Centro comercial",
+        "acomodamiento": ["Rampas adecuadas", "Parqueaderos azules", "Tamaños de mesa diferentes", "Ascensores", "Vías de tránsito peatonal de fácil acceso"]
+    }
+
+]

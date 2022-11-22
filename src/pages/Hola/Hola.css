@@ -1,0 +1,19 @@
+.h-text{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 64%;
+}
+
+.h-name{
+    font-weight: bold;
+}
+
+.h-button{
+    padding: 0.2% 18%;
+    height: 11.1%;
+    width: 30%;
+    background-color: #72C8F1;
+    border-radius: 20px;
+    margin-left: 46px;
+    margin-top: 18px;
+}
