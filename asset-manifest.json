@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/A-MAN/static/css/main.338e4c23.css",
-    "main.js": "/A-MAN/static/js/main.2a2e47d3.js",
+    "main.css": "/A-MAN/static/css/main.50b9ec15.css",
+    "main.js": "/A-MAN/static/js/main.794a2de1.js",
     "static/media/logo.svg": "/A-MAN/static/media/logo.677fb302280fa33f2add69c54df91e37.svg",
     "static/media/gear.svg": "/A-MAN/static/media/gear.519afd731f667b0458565ffeb92eaf38.svg",
     "index.html": "/A-MAN/index.html",
@@ -10,11 +10,11 @@
     "static/media/person.svg": "/A-MAN/static/media/person.8d7518ce3037b8dd1e88474cdf62e726.svg",
     "static/media/arrow-right.svg": "/A-MAN/static/media/arrow-right.093409d5e73634719c91272c138cedf7.svg",
     "static/media/square.svg": "/A-MAN/static/media/square.4bf16e19280e301938cf62ff705eb791.svg",
-    "main.338e4c23.css.map": "/A-MAN/static/css/main.338e4c23.css.map",
-    "main.2a2e47d3.js.map": "/A-MAN/static/js/main.2a2e47d3.js.map"
+    "main.50b9ec15.css.map": "/A-MAN/static/css/main.50b9ec15.css.map",
+    "main.794a2de1.js.map": "/A-MAN/static/js/main.794a2de1.js.map"
   },
   "entrypoints": [
-    "static/css/main.338e4c23.css",
-    "static/js/main.2a2e47d3.js"
+    "static/css/main.50b9ec15.css",
+    "static/js/main.794a2de1.js"
   ]
 }
