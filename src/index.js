@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
-import Appp from "./App"
+import App from "./App"
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Ingreso from "./pages/Ingreso/Ingreso";
 import Registro from "./pages/Registro/Registro";
@@ -11,7 +11,7 @@ import Filtros from "./pages/Filtros/Filtros";
 import Restaurantes from "./pages/Restaurantes/Restaurantes";
 import Restaurante from "./pages/Restaurante/Restaurante";
 
-export default function App() {
+export default function AppIndex() {
   return (
     <BrowserRouter>
     <Routes>
@@ -27,4 +27,4 @@ export default function App() {
 }
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(<App />);
+root.render(<AppIndex />);
