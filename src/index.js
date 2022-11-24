@@ -8,6 +8,7 @@ import Hola from "./pages/Hola/Hola";
 import Filtros from "./pages/Filtros/Filtros";
 import Restaurantes from "./pages/Restaurantes/Restaurantes";
 import Restaurante from "./pages/Restaurante/Restaurante";
+import App from "./App"
 
 export default function AppIndex() {
   return (
